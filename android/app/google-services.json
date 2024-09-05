@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "304480919302",
+    "project_id": "nutri-guard-48855",
+    "storage_bucket": "nutri-guard-48855.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304480919302:android:d61cf68459345eeae98887",
+        "android_client_info": {
+          "package_name": "com.nutri.guard.smartshield"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5zJXV4TI-g761rh7qcwAmV-8nbsYvwvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304480919302:android:0820afca5786ece8e98887",
+        "android_client_info": {
+          "package_name": "com.nutriguard.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5zJXV4TI-g761rh7qcwAmV-8nbsYvwvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
